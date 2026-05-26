@@ -1,0 +1,4 @@
+Metadata-Version: 2.4
+Name: multitask-knee-angle
+Version: 0.1.0
+Summary: Multi-task learning for knee activity classification and knee angle regression

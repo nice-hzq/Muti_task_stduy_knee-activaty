@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "multitask-knee-angle"
+version = "0.1.0"
+description = "Multi-task learning for knee activity classification and knee angle regression"
+
+[tool.setuptools.packages.find]
+include = ["src*"]
